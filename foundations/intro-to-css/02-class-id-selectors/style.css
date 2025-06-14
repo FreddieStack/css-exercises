@@ -1,0 +1,19 @@
+.odd {
+    background-color: hsla(340, 50%, 50%, 0.5
+    );
+    font-family: "Verdana","DejaVu-Sans","sans-serif";
+
+
+}
+.fat,#fourth{
+    font-size: 1.6em;
+}
+#second{
+   color: blue;
+   font-size: 32px; 
+}
+#fourth{
+    font-weight: 700;
+    background-color: hsla(120, 56%, 63%, 0.7);
+
+}
